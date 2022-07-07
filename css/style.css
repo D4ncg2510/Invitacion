@@ -1,6 +1,5 @@
 body {
 	line-height: 1.4;
-	font-family: 'Brush Script MT', sans-serif;
     color: #67696c;
     font-size: 16px;
     font-weight: 300;
@@ -73,7 +72,8 @@ order:0;
 	height: 300px;
 }
 
-.contaainer h2{
+.contaainer h2{ 
+	font-family: 'Brush Script MT', sans-serif;
 	font-size:3rem;
 	position: absolute;
 	top: 90%;
@@ -83,6 +83,7 @@ order:0;
 }
 
 .contaainer p{
+	font-family: 'Brush Script MT', sans-serif;
 	font-size:5rem;
 	position: absolute;
 	top: 65%;
@@ -127,6 +128,7 @@ order:0;
 }
 
 .testo{
+	font-family: 'Brush Script MT', sans-serif;
 	font-size:15px;
 	font-weight:bold;
 	color: #C8AD09;
